@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "إضافة سكربت لعبة كراش"
+git branch -M main
+git remote add origin https://github.com/اسم_المستخدم/crash-game-script.git
+git push -u origin main
